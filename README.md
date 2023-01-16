@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @19gml2
 - 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning Unity ins and outs
+- 🌱 I’m currently In University in my 3rd year
 
 
 
